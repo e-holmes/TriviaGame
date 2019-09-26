@@ -1,3 +1,29 @@
+body{
+    background-image: url("../images/hogwarts.gif");
+    background-size: 100%;
+    background-attachment: scroll;
+}
+
+section{
+    margin:1%;
+}
+
+h1, h2{
+    text-align: center;
+}
+ 
+article{
+    font-size: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    line-height: 200%;
+
+}
+
+ol{
+    margin:2%;
+}
+
 #submit{
     display:none;
 }
